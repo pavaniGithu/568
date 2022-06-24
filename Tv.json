@@ -1,0 +1,3240 @@
+{
+  "status": true,
+  "response": {
+    "data": [
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Live Now",
+            "description": "",
+            "dataSubType": "live",
+            "bannerImage": "",
+            "code": "live_tv_movies",
+            "dataType": "epg",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": true,
+            "viewAllTargetPath": "section/live_tv_movies",
+            "infiniteScroll": false
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Legally Tender",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "channel/live/pixl",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1655789400000",
+                    "RokuGenreCode": "drama,romance,thanksgiving,family",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1655794800000",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isLive": "true",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "channel/catchup1/pixl",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "badge",
+                      "value": "LIVE",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    },
+                    {
+                      "markerType": "special",
+                      "value": "targetPlayerPage",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "showProgressBar",
+                      "value": "true",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    },
+                    {
+                      "markerType": "record",
+                      "value": "content_type=3&content_id=27&action=1",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFF0000"
+                    }
+                  ],
+                  "parentName": "Pixl",
+                  "subtitle1": "11:00 AM-12:30 PM",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Legally Tender",
+                  "imageUrl": "epg,840716149_22859143__derived_jpg_q90_500x500_m0_The_Thanksgiving_House.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Killer Rivalry",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "channel/live/lmn",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1655791260000",
+                    "RokuGenreCode": "mystery & suspense",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1655798520000",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isLive": "true",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "channel/catchup1/lmn",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/gpwkwt.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "badge",
+                      "value": "LIVE",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    },
+                    {
+                      "markerType": "special",
+                      "value": "targetPlayerPage",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "showProgressBar",
+                      "value": "true",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    },
+                    {
+                      "markerType": "record",
+                      "value": "content_type=3&content_id=64&action=1",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFF0000"
+                    }
+                  ],
+                  "parentName": "LMN",
+                  "subtitle1": "11:31 AM-1:32 PM",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Killer Rivalry",
+                  "imageUrl": "epg,11394282260_47955679__derived_jpg_q90_500x500_m0_Killer_Rivalry_3840x2160_art_only_6_1650339076258_3.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Sagebrush Trail",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "channel/live/family_movie_channel",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1655791200000",
+                    "RokuGenreCode": "western",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1655794800000",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isLive": "true",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "channel/catchup1/family_movie_channel",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ixolge.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "badge",
+                      "value": "LIVE",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    },
+                    {
+                      "markerType": "special",
+                      "value": "targetPlayerPage",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "showProgressBar",
+                      "value": "true",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    },
+                    {
+                      "markerType": "record",
+                      "value": "content_type=3&content_id=71&action=1",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFF0000"
+                    }
+                  ],
+                  "parentName": "Family Movie Channel",
+                  "subtitle1": "11:30 AM-12:30 PM",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Sagebrush Trail",
+                  "imageUrl": "epg,82456_1213000__derived_jpg_q90_500x500_m0_SagebrushTrail1933_Feature.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Blue Collar Comedy Tour: The Movie",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "channel/live/circle",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1655785800000",
+                    "RokuGenreCode": "stand-up comedy,concert",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1655794800000",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isLive": "true",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "channel/catchup1/circle",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/lerxhw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "badge",
+                      "value": "LIVE",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    },
+                    {
+                      "markerType": "special",
+                      "value": "targetPlayerPage",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "showProgressBar",
+                      "value": "true",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    },
+                    {
+                      "markerType": "record",
+                      "value": "content_type=3&content_id=52&action=1",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFF0000"
+                    }
+                  ],
+                  "parentName": "Circle",
+                  "subtitle1": "10:00 AM-12:30 PM",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Blue Collar Comedy Tour: The Movie",
+                  "imageUrl": "epg,1541317__16by9__derived_jpg_q90_500x500_m0_Blue-Collar-Comedy-Tour-One-Sheet.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "live_tv_movies",
+            "lastIndex": 3
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Trending Now",
+            "description": "",
+            "dataSubType": "catchup",
+            "bannerImage": "",
+            "code": "trending_now_movies",
+            "dataType": "epg",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": true,
+            "viewAllTargetPath": "section/trending_now_movies",
+            "infiniteScroll": false
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Sinners in Paradise",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {
+                  "partnerName": {
+                    "key": "partnerName",
+                    "value": "Family Movie Channel"
+                  },
+                  "code": {
+                    "key": "code",
+                    "value": "sinners-in-paradise"
+                  },
+                  "id": {
+                    "key": "id",
+                    "value": "1138378"
+                  },
+                  "contentType": {
+                    "key": "contentType",
+                    "value": "epg"
+                  },
+                  "payType": {
+                    "key": "payType",
+                    "value": "L"
+                  },
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "71"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1138378",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1655786700000",
+                    "RokuGenreCode": "action/adventure,drama,romance",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1655791200000",
+                    "id": "1138378",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ixolge.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "special",
+                      "value": "playable",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "startTime",
+                      "value": "1655786700000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1655791200000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "special",
+                      "value": "playable",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "startTime",
+                      "value": "1655786700000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1655791200000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "special",
+                      "value": "targetPlayerPage",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "Family Movie Channel",
+                  "subtitle1": "Tue, Jun 21 | 10:15 AM - 11:30 AM",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Sinners in Paradise",
+                  "imageUrl": "epg,1074440__4by3__derived_jpg_q90_500x500_m0_lWZ1mRjlpHN7t8rSzrzv80E6VgI.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Secret Life of a Student",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {
+                  "partnerName": {
+                    "key": "partnerName",
+                    "value": "LMN"
+                  },
+                  "code": {
+                    "key": "code",
+                    "value": "secret-life-of-a-student"
+                  },
+                  "id": {
+                    "key": "id",
+                    "value": "1132470"
+                  },
+                  "contentType": {
+                    "key": "contentType",
+                    "value": "epg"
+                  },
+                  "payType": {
+                    "key": "payType",
+                    "value": "P"
+                  },
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "64"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1132470",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1655784060000",
+                    "RokuGenreCode": "drama,mystery",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1655791260000",
+                    "id": "1132470",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/gpwkwt.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "special",
+                      "value": "playable",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "startTime",
+                      "value": "1655784060000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1655791260000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "special",
+                      "value": "playable",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "startTime",
+                      "value": "1655784060000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1655791260000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "special",
+                      "value": "targetPlayerPage",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "LMN",
+                  "subtitle1": "Tue, Jun 21 | 9:31 AM - 11:31 AM",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Secret Life of a Student",
+                  "imageUrl": ""
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "When Duty Calls",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {
+                  "partnerName": {
+                    "key": "partnerName",
+                    "value": "Pixl"
+                  },
+                  "code": {
+                    "key": "code",
+                    "value": "when-duty-calls"
+                  },
+                  "id": {
+                    "key": "id",
+                    "value": "1132646"
+                  },
+                  "contentType": {
+                    "key": "contentType",
+                    "value": "epg"
+                  },
+                  "payType": {
+                    "key": "payType",
+                    "value": "P"
+                  },
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "27"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1132646",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1655784000000",
+                    "RokuGenreCode": "drama",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1655789400000",
+                    "id": "1132646",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "special",
+                      "value": "playable",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "startTime",
+                      "value": "1655784000000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1655789400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "special",
+                      "value": "playable",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "startTime",
+                      "value": "1655784000000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1655789400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "special",
+                      "value": "targetPlayerPage",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "Pixl",
+                  "subtitle1": "Tue, Jun 21 | 9:30 AM - 11:00 AM",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "When Duty Calls",
+                  "imageUrl": "https://dm4tstskplf00.cloudfront.net/vod/ss/pixlhls/master/1655784000-1655789430-playlist-uat.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "trending_now_movies",
+            "lastIndex": 2
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Continue Watching",
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "continue_watching_movies",
+            "dataType": "movie",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": true,
+            "viewAllTargetPath": "section/continue_watching_movies",
+            "infiniteScroll": false
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Honor Student",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample_continue_watching",
+                "target": {
+                  "path": "movie/play/165372",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Drama",
+                    "id": "562"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "seek",
+                      "value": "0.0033707865168539327",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    }
+                  ],
+                  "parentName": "",
+                  "subtitle1": "LMN | 2022",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Honor Student",
+                  "imageUrl": "common,tvshows/images/test-ane-lmhm1653722204210000-mftm-hd-thumbnail.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "A Winter Princess",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample_continue_watching",
+                "target": {
+                  "path": "movie/play/avihmntitl0001626796881778Y",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romance",
+                    "id": "526"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "seek",
+                      "value": "0.5646341463414634",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    }
+                  ],
+                  "parentName": "",
+                  "subtitle1": "Hallmark Movies Now | 2019",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "A Winter Princess",
+                  "imageUrl": "crop,movie/images/mvmz4668.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Winter Castle",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample_continue_watching",
+                "target": {
+                  "path": "movie/play/avihmntitl0001626796947837Y",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romance",
+                    "id": "525"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "seek",
+                      "value": "0.03453815261044177",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    }
+                  ],
+                  "parentName": "",
+                  "subtitle1": "Hallmark Movies Now | 2019",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Winter Castle",
+                  "imageUrl": "crop,movie/images/mvmz4701.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Love Under the Lemon Tree",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1080890",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "false",
+                    "startTime": "1653879600000",
+                    "RokuGenreCode": "drama,romance",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1653886800000",
+                    "id": "1080890",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "true",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/ktujyw.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "special",
+                      "value": "playable",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "seek",
+                      "value": "0.06902777777777777",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    }
+                  ],
+                  "parentName": "",
+                  "subtitle1": "Mon, May 30 | 8:30 AM - 10:30 AM",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Love Under the Lemon Tree",
+                  "imageUrl": "https://dm4tstskplf00.cloudfront.net/vod/ss/uptvhls/master/1653879600-1653886830-playlist-uat.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Christmas Dress",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample_continue_watching",
+                "target": {
+                  "path": "movie/play/ceg10032220",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "drama",
+                    "id": "459"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "seek",
+                      "value": "0.0532051282051282",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    }
+                  ],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2021",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Christmas Dress",
+                  "imageUrl": "common,movie/images/dove-test-ceg10032220-withlogo-896x504.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "The Wedding Do Over",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample_continue_watching",
+                "target": {
+                  "path": "movie/play/the-wedding-over-10551-en-846",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romantic Comedy",
+                    "id": "424"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "seek",
+                      "value": "0.5417647058823529",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    }
+                  ],
+                  "parentName": "",
+                  "subtitle1": "Pixl | 2018",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "The Wedding Do Over",
+                  "imageUrl": "common,movie/images/pixl-the-wedding-over-frd.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Time Capsule",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample_continue_watching",
+                "target": {
+                  "path": "movie/play/time-capsule-10552-en-847",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romantic Comedy",
+                    "id": "461"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "seek",
+                      "value": "0.5722868217054263",
+                      "bgColor": "FFFF0000",
+                      "textColor": "FFFFFFFF"
+                    }
+                  ],
+                  "parentName": "",
+                  "subtitle1": "Pixl | 2018",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Time Capsule",
+                  "imageUrl": "common,movie/images/pixl-time-capsule-frd.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "continue_watching_movies",
+            "lastIndex": 12
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Just Added Movies",
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "movies",
+            "dataType": "movie",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": true,
+            "viewAllTargetPath": "section/movies",
+            "infiniteScroll": false
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Honor Student",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/165372",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Drama",
+                    "id": "562"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "LMN | 2022",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Honor Student",
+                  "imageUrl": "common,tvshows/images/test-ane-lmhm1653722204210000-mftm-hd-thumbnail.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Deep Blue Nightmare",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/250333",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "drama-comedy,drama,holiday",
+                    "id": "557"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "LMN | 2021",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Deep Blue Nightmare",
+                  "imageUrl": "common,tvshows/images/test-ane-lmhm2503332202070000-amve-hd-thumbnail.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Valentine in the Vineyard",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/03843Y",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romance",
+                    "id": "551"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2019",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Valentine in the Vineyard",
+                  "imageUrl": "crop,movie/images/mvmz4720.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Test Asset A&E 1",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/linkinpark-intheend-en-00001",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romantic Comedy",
+                    "id": "521"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Pixl | 2017",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Test Asset A&E 1",
+                  "imageUrl": "common,movie/images/testpixl-in-the-end-joker1.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "\"Yupp\"&Enc\"Test\"",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avidoveenctest",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "romance",
+                    "id": "463"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2021",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "\"Yupp\"&Enc\"Test\"",
+                  "imageUrl": "common,movie/images/dove-test-avi-withlogo-896x504.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Time Capsule",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/time-capsule-10552-en-847",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romantic Comedy",
+                    "id": "461"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Pixl | 2018",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Time Capsule",
+                  "imageUrl": "common,movie/images/pixl-time-capsule-frd.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Christmas Dress",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/ceg10032220",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "drama",
+                    "id": "459"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2021",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Christmas Dress",
+                  "imageUrl": "common,movie/images/dove-test-ceg10032220-withlogo-896x504.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Christmas Dress_Test2",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/ceg10032220_Test2",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "drama",
+                    "id": "452"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2021",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Christmas Dress_Test2",
+                  "imageUrl": "common,movie/images/dove-test-ceg10032220-withlogo-896x504.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Test Asset A&E 2",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/yfsisterswoccwp-1005",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romantic Comedy",
+                    "id": "442"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Pixl | 2017",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Test Asset A&E 2",
+                  "imageUrl": "common,movie/images/testpixl-yfsisterswoccwp-1005-yfsisterswoccwp-1005.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "WOCC\t& WOP - 1",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avidovewoccwop",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "drama",
+                    "id": "444"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2021",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "WOCC\t& WOP - 1",
+                  "imageUrl": "common,movie/images/dove-test-avi-withlogo-896x504.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "The Wedding Do Over",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/the-wedding-over-10551-en-846",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romantic Comedy",
+                    "id": "424"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Pixl | 2018",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "The Wedding Do Over",
+                  "imageUrl": "common,movie/images/pixl-the-wedding-over-frd.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Test HMN Text",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/time-capsule-10552-en-847_TestAvi",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romantic Comedy",
+                    "id": "425"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Pixl | 2018",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Test HMN Text",
+                  "imageUrl": "common,movie/images/pixl-time-capsule-frd.jpg"
+                }
+              }
+            ],
+            "hasMoreData": true,
+            "section": "movies",
+            "lastIndex": 11
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Popular Movies",
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "popular_movies",
+            "dataType": "movie",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": true,
+            "viewAllTargetPath": "section/popular_movies",
+            "infiniteScroll": false
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "WOCC\t& WOP - 1",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avidovewoccwop",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "drama",
+                    "id": "444"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2021",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "WOCC\t& WOP - 1",
+                  "imageUrl": "common,movie/images/dove-test-avi-withlogo-896x504.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Test Asset A&E 1",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/linkinpark-intheend-en-00001",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romantic Comedy",
+                    "id": "521"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Pixl | 2017",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Test Asset A&E 1",
+                  "imageUrl": "common,movie/images/testpixl-in-the-end-joker1.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Under the Autumn Moon",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/under-autumn-moonY",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romance",
+                    "id": "306"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/hallmark-channel.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Hallmark Channel | 2019",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Under the Autumn Moon",
+                  "imageUrl": "crop,movie/images/hd-vod-mvlb4651.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Love's Complicated",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/s-complicatedY",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romance",
+                    "id": "336"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/hallmark-channel.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Hallmark Channel | 2019",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Love's Complicated",
+                  "imageUrl": "crop,movie/images/hd-vod-mvlb3815.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "The Wedding Do Over",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/the-wedding-over-10551-en-846",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romantic Comedy",
+                    "id": "424"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Pixl | 2018",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "The Wedding Do Over",
+                  "imageUrl": "common,movie/images/pixl-the-wedding-over-frd.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Test HMN Text",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/time-capsule-10552-en-847_TestAvi",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romantic Comedy",
+                    "id": "425"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Pixl | 2018",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Test HMN Text",
+                  "imageUrl": "common,movie/images/pixl-time-capsule-frd.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Testing A&E Assets 2",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avi-pixl-test-003",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Action, Drama",
+                    "id": "415"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Pixl | 2019",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Testing A&E Assets 2",
+                  "imageUrl": "common,movie/images/testpixl-ghoul1-bhaahu1.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Testing A&E Asstes 3",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avibhaahu1-test-en-004",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Action, Drama",
+                    "id": "416"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Pixl | 2019",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Testing A&E Asstes 3",
+                  "imageUrl": "common,movie/images/testpixl-baahubali1-bhaahu1.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Valentine in the Vineyard",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/03843Y",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romance",
+                    "id": "551"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2019",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Valentine in the Vineyard",
+                  "imageUrl": "crop,movie/images/mvmz4720.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Christmas Dress_Test2",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/ceg10032220_Test2",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "drama",
+                    "id": "452"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2021",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Christmas Dress_Test2",
+                  "imageUrl": "common,movie/images/dove-test-ceg10032220-withlogo-896x504.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Time Capsule",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/time-capsule-10552-en-847",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romantic Comedy",
+                    "id": "461"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Pixl | 2018",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Time Capsule",
+                  "imageUrl": "common,movie/images/pixl-time-capsule-frd.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Honor Student",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/165372",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Drama",
+                    "id": "562"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "LMN | 2022",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Honor Student",
+                  "imageUrl": "common,tvshows/images/test-ane-lmhm1653722204210000-mftm-hd-thumbnail.jpg"
+                }
+              }
+            ],
+            "hasMoreData": true,
+            "section": "popular_movies",
+            "lastIndex": 11
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Hallmark Movies Now Movies",
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "hallmark_movies_now_movies",
+            "dataType": "movie",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": true,
+            "viewAllTargetPath": "section/hallmark_movies_now_movies",
+            "infiniteScroll": false
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "A Winter Princess",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avihmntitl0001626796881778Y",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romance",
+                    "id": "526"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Hallmark Movies Now | 2019",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "A Winter Princess",
+                  "imageUrl": "crop,movie/images/mvmz4668.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Winter Castle",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avihmntitl0001626796947837Y",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romance",
+                    "id": "525"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Hallmark Movies Now | 2019",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Winter Castle",
+                  "imageUrl": "crop,movie/images/mvmz4701.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Valentine in the Vineyard",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avihmntitl0001626797003843Y",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romance",
+                    "id": "524"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Hallmark Movies Now | 2019",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Valentine in the Vineyard",
+                  "imageUrl": "crop,movie/images/mvmz4720.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Home coming",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avititl0001618934874395Y",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Drama",
+                    "id": "479"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Hallmark Movies Now | 2020",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Home coming",
+                  "imageUrl": "crop,movie/images/mvmz0501.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "AVI",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avititl0001618934874393Y",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Drama",
+                    "id": "476"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Hallmark Movies Now | 2020",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "AVI",
+                  "imageUrl": "crop,movie/images/mvmz0501.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "hallmark_movies_now_movies",
+            "lastIndex": 4
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Networks",
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "all-networks",
+            "dataType": "network",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": true,
+            "viewAllTargetPath": "section/all-networks",
+            "infiniteScroll": false
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Family Movie Channel",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "partner/family_movie_channel",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "bannerPosition": "3",
+                    "contentType": "network"
+                  }
+                },
+                "cardType": "network_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Family Movie Channel",
+                  "imageUrl": "network,network/images/htajxm.png"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "A&E",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "partner/ae",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "bannerPosition": "3",
+                    "contentType": "network"
+                  }
+                },
+                "cardType": "network_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "A&E",
+                  "imageUrl": "network,network/images/ae.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Story Television",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "partner/story_television",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "bannerPosition": "3",
+                    "contentType": "network"
+                  }
+                },
+                "cardType": "network_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Story Television",
+                  "imageUrl": "network,network/images/story-television.png"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Hallmark Movies Now",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "partner/hmnow",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "bannerPosition": "3",
+                    "contentType": "network"
+                  }
+                },
+                "cardType": "network_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Hallmark Movies Now",
+                  "imageUrl": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "MeTV",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "partner/me_tv",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "bannerPosition": "3",
+                    "contentType": "network"
+                  }
+                },
+                "cardType": "network_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "MeTV",
+                  "imageUrl": "network,network/images/qzgtjg.png"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Dove Channel",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "partner/dove",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "bannerPosition": "3",
+                    "contentType": "network"
+                  }
+                },
+                "cardType": "network_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Dove Channel",
+                  "imageUrl": "network,network/images/gulsdn.png"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Dove Kids",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "partner/dovekids",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "bannerPosition": "3",
+                    "contentType": "network"
+                  }
+                },
+                "cardType": "network_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Dove Kids",
+                  "imageUrl": "network,network/images/dove-kids.png"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Dove Family Movies",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "partner/dovemovies",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "bannerPosition": "3",
+                    "contentType": "network"
+                  }
+                },
+                "cardType": "network_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Dove Family Movies",
+                  "imageUrl": "network,network/images/eikhan.png"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "INSP",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "partner/insp",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "bannerPosition": "3",
+                    "contentType": "network"
+                  }
+                },
+                "cardType": "network_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "INSP",
+                  "imageUrl": "network,network/images/kafjng.png"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Pixl",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "partner/pixl",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "bannerPosition": "3",
+                    "contentType": "network"
+                  }
+                },
+                "cardType": "network_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Pixl",
+                  "imageUrl": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/pixl.png"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Hallmark Channel",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "partner/hallmark_channel",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "bannerPosition": "3",
+                    "contentType": "network"
+                  }
+                },
+                "cardType": "network_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Hallmark Channel",
+                  "imageUrl": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/common/logos/channel/logos/hallmark-channel.png"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Hallmark Movies Now Informational Video",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "",
+                  "pageType": "",
+                  "pageAttributes": {}
+                },
+                "cardType": "network_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Hallmark Movies Now Informational Video",
+                  "imageUrl": "network,network/images/hallmark-movies-now-informational-video.png"
+                }
+              }
+            ],
+            "hasMoreData": true,
+            "section": "all-networks",
+            "lastIndex": 11
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Dove Channel Ad-Free Movies",
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "dove_channel_ad_free_movies",
+            "dataType": "movie",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": true,
+            "viewAllTargetPath": "section/dove_channel_ad_free_movies",
+            "infiniteScroll": false
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Valentine in the Vineyard",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/03843Y",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romance",
+                    "id": "551"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2019",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Valentine in the Vineyard",
+                  "imageUrl": "crop,movie/images/mvmz4720.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Christmas Dress",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/ceg10032220",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "drama",
+                    "id": "459"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2021",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Christmas Dress",
+                  "imageUrl": "common,movie/images/dove-test-ceg10032220-withlogo-896x504.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Christmas Dress_Test2",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/ceg10032220_Test2",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "drama",
+                    "id": "452"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2021",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Christmas Dress_Test2",
+                  "imageUrl": "common,movie/images/dove-test-ceg10032220-withlogo-896x504.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "\"Yupp\"&Enc\"Test\"",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avidoveenctest",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "romance",
+                    "id": "463"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2021",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "\"Yupp\"&Enc\"Test\"",
+                  "imageUrl": "common,movie/images/dove-test-avi-withlogo-896x504.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "WOCC\t& WOP - 1",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avidovewoccwop",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "drama",
+                    "id": "444"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/gpnvpn.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Dove Channel | 2021",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "WOCC\t& WOP - 1",
+                  "imageUrl": "common,movie/images/dove-test-avi-withlogo-896x504.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "dove_channel_ad_free_movies",
+            "lastIndex": 4
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Ad-Free Movies",
+            "description": "",
+            "dataSubType": "catchup",
+            "bannerImage": "",
+            "code": "commercial_free_movies",
+            "dataType": "epg",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": true,
+            "viewAllTargetPath": "section/commercial_free_movies",
+            "infiniteScroll": false
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "When Duty Calls",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {
+                  "channelId": {
+                    "key": "channelId",
+                    "value": "27"
+                  }
+                },
+                "template": "tvguide-popup-sample",
+                "target": {
+                  "path": "epg/play/1132646",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "isRecordingAllowed": "true",
+                    "startTime": "1655784000000",
+                    "RokuGenreCode": "drama",
+                    "recordingForm": "player_recording_form",
+                    "endTime": "1655789400000",
+                    "id": "1132646",
+                    "contentType": "epg",
+                    "isRecordingDisabled": "false",
+                    "isRecorded": "false"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "logo,channel/logos/pixl.png",
+                  "subtitle2": "",
+                  "markers": [
+                    {
+                      "markerType": "startTime",
+                      "value": "1655784000000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    },
+                    {
+                      "markerType": "endTime",
+                      "value": "1655789400000",
+                      "bgColor": "00FFFFFF",
+                      "textColor": "FFFFA500"
+                    }
+                  ],
+                  "parentName": "Pixl",
+                  "subtitle1": "Tue, Jun 21 | 9:30 AM - 11:00 AM",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "When Duty Calls",
+                  "imageUrl": "https://dm4tstskplf00.cloudfront.net/vod/ss/pixlhls/master/1655784000-1655789430-playlist-uat.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "commercial_free_movies",
+            "lastIndex": 0
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Free Preview HMN",
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "free_preview_hmn",
+            "dataType": "hetro",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": true,
+            "viewAllTargetPath": "section/free_preview_hmn",
+            "infiniteScroll": false
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "Emily of New Moon",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "videos/emily-of-new-moonsnhy9w",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "contentType": "tvshowdetails",
+                    "watchedPosition": "0.0"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "3 Episodes",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "Emily of New Moon",
+                  "imageUrl": "crop,tvshows/images/eonm0405.jpg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "When Calls the Heart",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "videos/when-calls-heart",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "contentType": "tvshowdetails",
+                    "watchedPosition": "0.0"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "4 Episodes",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "When Calls the Heart",
+                  "imageUrl": "common,movie/images/hd-vod-mwclb7000.bmp"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "A Winter Princess",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avihmntitl0001626796881778Y",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romance",
+                    "id": "526"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Hallmark Movies Now | 2019",
+                  "subtitle4": "",
+                  "layout": "portrait",
+                  "title": "A Winter Princess",
+                  "imageUrl": "crop,movie/images/mvmz4668.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "free_preview_hmn",
+            "lastIndex": 2
+          }
+        }
+      },
+      {
+        "paneType": "section",
+        "section": {
+          "sectionInfo": {
+            "name": "Free Preview Hallmark Movies Now",
+            "description": "",
+            "dataSubType": "",
+            "bannerImage": "",
+            "code": "free_preview_hallmark_movies_now",
+            "dataType": "hetro",
+            "iconUrl": ""
+          },
+          "sectionControls": {
+            "showViewAll": true,
+            "viewAllTargetPath": "section/free_preview_hallmark_movies_now",
+            "infiniteScroll": false
+          },
+          "sectionData": {
+            "dataRequestDelay": 0,
+            "data": [
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "When Calls the Heart",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "videos/when-calls-heart",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "contentType": "tvshowdetails",
+                    "watchedPosition": "0.0"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Season 7",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "When Calls the Heart",
+                  "imageUrl": "common,playlist/images/obwkpn.jpeg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "When Calls the Heart",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "videos/when-calls-heart",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "contentType": "tvshowdetails",
+                    "watchedPosition": "0.0"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Season 6",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "When Calls the Heart",
+                  "imageUrl": "common,playlist/images/vrkbld.jpeg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "When Calls the Heart",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "target": {
+                  "path": "videos/when-calls-heart",
+                  "pageType": "details",
+                  "pageAttributes": {
+                    "contentType": "tvshowdetails",
+                    "watchedPosition": "0.0"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Season 8",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "When Calls the Heart",
+                  "imageUrl": "common,playlist/images/iwhqmf.jpeg"
+                }
+              },
+              {
+                "hover": {
+                  "elements": [
+                    {
+                      "key": "name",
+                      "value": "A Winter Princess",
+                      "elementType": "",
+                      "icon": ""
+                    }
+                  ]
+                },
+                "metadata": {},
+                "template": "movie_popup_sample",
+                "target": {
+                  "path": "movie/play/avihmntitl0001626796881778Y",
+                  "pageType": "player",
+                  "pageAttributes": {
+                    "contentType": "movie",
+                    "RokuGenreCode": "Romance",
+                    "id": "526"
+                  }
+                },
+                "cardType": "overlay_poster",
+                "display": {
+                  "subtitle5": "",
+                  "subtitle3": "",
+                  "parentIcon": "https://d229kpbsb5jevy.cloudfront.net/frndlytv/content/patners/network/images/xetxvc.png",
+                  "subtitle2": "",
+                  "markers": [],
+                  "parentName": "",
+                  "subtitle1": "Hallmark Movies Now | 2019",
+                  "subtitle4": "",
+                  "layout": "landscape",
+                  "title": "A Winter Princess",
+                  "imageUrl": "crop,movie/images/mvmz4668.jpg"
+                }
+              }
+            ],
+            "hasMoreData": false,
+            "section": "free_preview_hallmark_movies_now",
+            "lastIndex": 3
+          }
+        }
+      }
+    ],
+    "adUrlResponse": {
+      "adConfigName": "",
+      "adUrlTypes": []
+    },
+    "promoBanners": [],
+    "info": {
+      "pageType": "content",
+      "code": "movies",
+      "path": "movies",
+      "attributes": {}
+    },
+    "banners": [],
+    "pageEventInfo": [],
+    "filters": [],
+    "tabsInfo": {
+      "showTabs": false,
+      "hints": "",
+      "tabs": [],
+      "selectedTab": ""
+    },
+    "seoInfo": {
+      "title": "",
+      "description": "",
+      "keywords": "",
+      "metaTags": []
+    }
+  }
+}
